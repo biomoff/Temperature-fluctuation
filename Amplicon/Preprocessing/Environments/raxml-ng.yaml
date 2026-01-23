@@ -1,0 +1,22 @@
+name: raxml-ng
+channels:
+  - conda-forge
+  - biomoff
+  - microbodington
+  - bioconda
+  - defaults
+dependencies:
+  - _libgcc_mutex=0.1=conda_forge
+  - _openmp_mutex=4.5=2_gnu
+  - gmp=6.2.1=h58526e2_0
+  - libgcc-ng=13.2.0=h807b86a_2
+  - libgfortran-ng=13.2.0=h69a702a_2
+  - libgfortran5=13.2.0=ha4646dd_2
+  - libgomp=13.2.0=h807b86a_2
+  - libstdcxx-ng=13.2.0=h7e041cc_2
+  - libzlib=1.2.13=hd590300_5
+  - mpi=1.0=openmpi
+  - openmpi=4.1.6=hc5af2df_101
+  - raxml-ng=1.2.0=h6d1f11b_1
+  - zlib=1.2.13=hd590300_5
+prefix: /uoa/scratch/shared/Soil_Microbiology_Group/libs/conda/envs/raxml-ng

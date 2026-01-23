@@ -1,0 +1,14 @@
+name: MAFFT
+channels:
+  - conda-forge
+  - biomoff
+  - microbodington
+  - bioconda
+  - defaults
+dependencies:
+  - _libgcc_mutex=0.1=conda_forge
+  - _openmp_mutex=4.5=2_gnu
+  - libgcc-ng=13.2.0=h807b86a_2
+  - libgomp=13.2.0=h807b86a_2
+  - mafft=7.520=h031d066_2
+prefix: /uoa/scratch/shared/Soil_Microbiology_Group/libs/conda/envs/MAFFT

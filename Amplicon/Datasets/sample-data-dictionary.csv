@@ -1,0 +1,8 @@
+Column,Format,Description
+Stage,Int,"1 or 2. Stage 1 is the temperature gradient experiment, with samples incubated at static temperatures for 8 weeks. Stage 2 is the temperature fluctuation experiment, where the temperature was changed at the interval describe in 'Scale of fluctuation' column"
+Time point (week),Int,Time point in weeks of the experiment at which the microcosm was sampled
+Temperature,Int,Temperature in degree Celsius that the microcosm was incubated at; only used where value in 'Stage' column is 1
+Scale of fluctuation,Str,"Scale of temperature fluctuation if value in 'Stage' column is 2. Any of 'highT' (30 degrees stable), 'lowT' (15 degrees stable), '2Weeks', '1Week', '2Days'"
+Replicate,int,Replicate number
+Active,Int,0 or 1. 0 Indicates that total DNA was sequenced. 1 indicates that heavy (labelled) DNA was sequenced
+Sample,Str,Sample name
