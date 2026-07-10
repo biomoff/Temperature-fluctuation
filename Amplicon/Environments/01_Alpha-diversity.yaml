@@ -413,6 +413,8 @@ dependencies:
   - zlib=1.2.13=h166bdaf_4
   - zstd=1.5.2=h3eb15da_6
   - pip:
+      - dill==0.4.1
+      - mplfig==1.0.1
       - radian==0.6.6
       - rchitect==0.3.40
       - rpy2==3.5.13

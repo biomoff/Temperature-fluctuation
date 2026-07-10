@@ -1,4 +1,4 @@
-name: 10_Trait-evolution
+name: dendropy
 channels:
   - biomoff
   - https://conda.anaconda.org/t/CG-ad06acd5-d833-4049-9407-a12dcc1cbb4b/CGR-lab
@@ -388,4 +388,4 @@ dependencies:
   - zipp=3.17.0=pyhd8ed1ab_0
   - zlib=1.2.13=hd590300_5
   - zstd=1.5.5=hfc55251_0
-prefix: ~/miniconda3/envs/10_Trait-evolution
+prefix: /home/s05am3/miniconda3/envs/dendropy

@@ -1,4 +1,4 @@
-name: 06_ALDEx2
+name: ALDEx2
 channels:
   - biomoff
   - https://conda.anaconda.org/t/CG-ad06acd5-d833-4049-9407-a12dcc1cbb4b/CGR-lab
@@ -292,4 +292,4 @@ dependencies:
   - zlib=1.3.1=hb9d3cd8_2
   - zstandard=0.23.0=py312hef9b889_1
   - zstd=1.5.6=ha6fb4c9_0
-prefix: ~/miniconda3/envs/06_ALDEx2
+prefix: /home/s05am3/miniconda3/envs/ALDEx2

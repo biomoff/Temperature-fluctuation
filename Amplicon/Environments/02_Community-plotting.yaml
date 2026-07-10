@@ -1,4 +1,4 @@
-name: 02_Community-plotting
+name: python
 channels:
   - anaconda
   - biomoff
@@ -209,4 +209,4 @@ dependencies:
       - pyqt5-sip==12.11.0
       - rpy2==3.5.13
       - tzlocal==5.0.1
-prefix: ~/miniconda3/envs/02_Community-plotting 
+prefix: /home/s05am3/miniconda3/envs/python

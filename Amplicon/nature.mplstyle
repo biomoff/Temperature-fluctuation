@@ -1,0 +1,14 @@
+font.family: sans-serif
+font.size: 7
+axes.labelsize: 8
+axes.titlesize: 8
+xtick.labelsize: 7
+ytick.labelsize: 7
+legend.fontsize: 7
+figure.titlesize: 9
+pdf.fonttype: 42
+ps.fonttype: 42
+lines.linewidth: 1
+axes.linewidth: 0.5
+xtick.major.width: 0.5
+ytick.major.width: 0.5
