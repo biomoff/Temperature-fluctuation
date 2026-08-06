@@ -43,3 +43,7 @@ For example, `01_Alpha-diversity.ipynb` is run with the environment `01_Alpha-di
 There is only a single notebook and environment file for the analysis of metagenomic data.
   
 *Note: there is no guarantee that the exact combination of software versions will be compatible with your setup.*
+  
+### Supporting notebooks
+
+Additional Jupyter Notebooks are provided in the 'Supporting' directory. These demonstrate the robustness and advantages of the 'absolute abundance' measure used in the analysis of amplicon sequencing data.
