@@ -1,4 +1,4 @@
-# Rapid Temperature Fluctuation Favours Soil Microbes with Higher Niche Breadths
+# Frequent Temperature Fluctuation Favours Soil Microbes with Higher Niche Breadths
   
 This Github page contains all the necessary code to reproduce the analyses from the above publication.
  
